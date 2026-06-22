@@ -1,4 +1,4 @@
-# My Portfolio Website To AWS Ec2 
+# My Portfolio Website To AWS EC2 
 Here are Steps to publish AWS website to EC2
 1. Create AWS EC2 instance
 2. Login to instance
